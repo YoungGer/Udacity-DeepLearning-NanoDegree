@@ -31,6 +31,9 @@ This is my Deep Learning projects related to Udacity Deep Learning Nano Degree. 
 * [Machine Translation](/language-translation): Train a sequence to sequence network for English to French translation (on a simple dataset)
 * [Face Generation](/face_generation): Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
 
+# Certification
+
+![Certification](http://7xlwwh.com1.z0.glb.clouddn.com/udacity_certification.png)
 
 # Thanks
 
